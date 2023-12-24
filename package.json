@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React-Learning journey of Yashkant Bajpai",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashkant-Bajpai/React-Learning.git"
+  },
+  "keywords": [
+    "React",
+    "Yashkant",
+    "Bajpai"
+  ],
+  "author": "Yashkant Bajpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashkant-Bajpai/React-Learning/issues"
+  },
+  "homepage": "https://github.com/Yashkant-Bajpai/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
